@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <windows.h>
-#include <conio.h>
 typedef struct voter_information
 {
     char aadhar[20];
